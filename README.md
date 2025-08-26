@@ -9,8 +9,8 @@ Runnable rituals for real life. Each drill has:
 - and links back to the full essay on vibeaxis.com.
 
 ## Drills
-- [Incident Response – PDF](checklists/incident-response-self-checklist.pdf) · [Markdown](drills/incident-response-self.md) · Essay →
-- [A/B Test My Memories – PDF](checklists/ab-test-my-memories-checklist.pdf) · [Markdown](drills/ab-test-my-memories.md) · Essay →
+- [Incident Response – PDF](/incident-response-self-checklist.pdf) · [Markdown](drills/incident-response-self.md) · Essay →
+- [A/B Test My Memories – PDF](/ab-test-my-memories-checklist.pdf) · [Markdown](drills/ab-test-my-memories.md) · Essay →
 - **Mirror Shield (Attention Ledger)** — _coming soon_
 - **Kill-Switch Sabbath (Offline Kit)** — _coming soon_
 
