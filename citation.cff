@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Switchcraft: Runnable drills, checklists, and tools"
+authors:
+  - family-names: "VibeAxis"
+    given-names: "Team"
+repository-code: "https://github.com/YOURUSER/vibeaxis-switchcraft"
+keywords: [receipts, checklist, ai, privacy, attention, rituals]
+license: "MIT"
+version: "1.0.0"
