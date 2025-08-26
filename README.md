@@ -10,7 +10,7 @@ Runnable rituals for real life. Each drill has:
 
 ## Drills
 - **Incident Response for the Self** — [Checklist PDF](checklists/incident-response-self.pdf) · [Markdown](drills/incident-response-self.md) · Essay →
-- **A/B Test My Memories** — [Checklist PDF]((https://github.com/Vibeaxis/vibeaxis-switchcraft/blob/main/ab-test-my-memories-checklist.pdf)) · [Markdown](drills/ab-test-my-memories.md) · Essay →
+- **A/B Test My Memories** — [Checklist PDF]((ab-test-my-memories-checklist.pdf)) · [Markdown](drills/ab-test-my-memories.md) · Essay →
 - **Mirror Shield (Attention Ledger)** — _coming soon_
 - **Kill-Switch Sabbath (Offline Kit)** — _coming soon_
 
